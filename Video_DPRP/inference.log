@@ -1,3 +1,6 @@
+This inference file is for our approach finetuned on video transformer mVIT (16X224) we finetuned for 10 epochs.
+Video reconstructed using (epsilon=2 and delta=10^{-4}) on UCF-101.
+
 2024-08-13 12:59:03,993 - INFO - Test set: Average loss: 0.2592, Accuracy: 2115/3783 (56%)
 
 2024-08-13 12:59:03,993 - INFO - Test Loss: 0.2591799186031055, Accuracy: 55.90800951625694
