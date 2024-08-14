@@ -1,3 +1,5 @@
+Model trained on raw UCF101 and finetuned on raw UCF101
+
 2024-08-13 20:20:46,915 - INFO - Test set: Average loss: 0.0673, Accuracy: 3230/3783 (85%)
 
 2024-08-13 20:20:46,915 - INFO - Test Loss: 0.06726845200889343, Accuracy: 85.38197197991012
