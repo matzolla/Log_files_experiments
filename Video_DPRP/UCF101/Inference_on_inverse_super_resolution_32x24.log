@@ -1,3 +1,4 @@
+The model was finetuned on inverse super-resolution video data (ISR) and inference on raw UCF-101
 
 2024-08-14 02:26:51,600 - INFO - Test set: Average loss: 0.2867, Accuracy: 1876/3783 (50%)
 
