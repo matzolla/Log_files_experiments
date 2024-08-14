@@ -1,3 +1,4 @@
+The model was trained on reconstructed HMDB51 with our approach, given the privacy budget epsilon=2 and delta=10^-4
 
 2024-08-14 21:20:27,160 - INFO - Test set: Average loss: 0.3420, Accuracy: 563/1530 (37%)
 
