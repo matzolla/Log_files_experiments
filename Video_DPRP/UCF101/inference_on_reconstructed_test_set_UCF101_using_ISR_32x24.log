@@ -1,0 +1,11 @@
+Inference of model trained with reconstructed UCF101 using Inverse Super Resolution (32x24) on ISR test set
+
+2024-08-15 23:55:47,207 - INFO - Test set: Average loss: 0.2934, Accuracy: 1704/3783 (45%)
+
+2024-08-15 23:55:47,207 - INFO - Test Loss: 0.29340392069710397, Accuracy: 45.0436161776368
+2024-08-16 00:02:32,222 - INFO - Test set: Average loss: 0.2948, Accuracy: 1696/3783 (45%)
+
+2024-08-16 00:02:32,222 - INFO - Test Loss: 0.2947907833204741, Accuracy: 44.83214380121596
+2024-08-16 00:10:16,499 - INFO - Test set: Average loss: 0.2927, Accuracy: 1723/3783 (46%)
+
+2024-08-16 00:10:16,499 - INFO - Test Loss: 0.29274593780130864, Accuracy: 45.54586307163627
