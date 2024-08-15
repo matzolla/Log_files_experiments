@@ -1,3 +1,4 @@
+The model was trained on HMDB51, using epsilon=2 and delta=10^{-4}, with DP-SGD
 
 2024-08-15 13:06:19,781 - INFO - Test set: Average loss: 0.5489, Accuracy: 214/1530 (14%)
 
