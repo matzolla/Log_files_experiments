@@ -1,0 +1,11 @@
+Inference done with model trained on raw HMDB51 dataset.
+
+2024-08-15 17:37:34,859 - INFO - Test set: Average loss: 0.1988, Accuracy: 920/1530 (60%)
+
+2024-08-15 17:37:34,859 - INFO - Test Loss: 0.19879456906049858, Accuracy: 60.130718954248366
+2024-08-15 17:41:52,605 - INFO - Test set: Average loss: 0.2027, Accuracy: 896/1530 (59%)
+
+2024-08-15 17:41:52,605 - INFO - Test Loss: 0.2026650293298017, Accuracy: 58.56209150326797
+2024-08-15 17:45:54,930 - INFO - Test set: Average loss: 0.2005, Accuracy: 903/1530 (59%)
+
+2024-08-15 17:45:54,930 - INFO - Test Loss: 0.2005249151217392, Accuracy: 59.01960784313726
