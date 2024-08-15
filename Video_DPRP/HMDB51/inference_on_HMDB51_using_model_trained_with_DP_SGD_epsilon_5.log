@@ -1,0 +1,11 @@
+Model trained using DP-SGD on HMDB51. parameters are epsilon=5 and delta=10^-4
+
+2024-08-15 15:13:51,142 - INFO - Test set: Average loss: 0.3880, Accuracy: 463/1530 (30%)
+
+2024-08-15 15:13:51,142 - INFO - Test Loss: 0.38800965598206116, Accuracy: 30.26143790849673
+2024-08-15 15:17:53,796 - INFO - Test set: Average loss: 0.3920, Accuracy: 449/1530 (29%)
+
+2024-08-15 15:17:53,796 - INFO - Test Loss: 0.3920264199668286, Accuracy: 29.34640522875817
+2024-08-15 15:21:59,424 - INFO - Test set: Average loss: 0.3859, Accuracy: 469/1530 (31%)
+
+2024-08-15 15:21:59,424 - INFO - Test Loss: 0.3858693384656719, Accuracy: 30.65359477124183
