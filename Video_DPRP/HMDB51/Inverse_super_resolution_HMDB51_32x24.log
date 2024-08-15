@@ -1,0 +1,11 @@
+Model trained on reconstructed HMDB51 using inverse-super-resolution (32x24)
+
+2024-08-15 08:46:35,200 - INFO - Test set: Average loss: 0.3561, Accuracy: 540/1530 (35%)
+
+2024-08-15 08:46:35,200 - INFO - Test Loss: 0.3561392423763774, Accuracy: 35.294117647058826
+2024-08-15 08:48:20,856 - INFO - Test set: Average loss: 0.3582, Accuracy: 548/1530 (36%)
+
+2024-08-15 08:48:20,856 - INFO - Test Loss: 0.3582287045865277, Accuracy: 35.81699346405229
+2024-08-15 08:50:32,835 - INFO - Test set: Average loss: 0.3565, Accuracy: 549/1530 (36%)
+
+2024-08-15 08:50:32,835 - INFO - Test Loss: 0.3564544110516317, Accuracy: 35.88235294117647
