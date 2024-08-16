@@ -1,0 +1,12 @@
+Inference on reconstructed HMDB51 using DPRP with reconstruction parameters epsilon=2 and delta=10^{-4}.
+Training was done using DP-SGD.
+
+2024-08-16 17:32:12,331 - INFO - Test set: Average loss: 0.7196, Accuracy: 47/1530 (3%)
+
+2024-08-16 17:32:12,331 - INFO - Test Loss: 0.7196215913186665, Accuracy: 3.0718954248366015
+2024-08-16 17:33:59,350 - INFO - Test set: Average loss: 0.7217, Accuracy: 56/1530 (4%)
+
+2024-08-16 17:33:59,350 - INFO - Test Loss: 0.7216542499517303, Accuracy: 3.6601307189542482
+2024-08-16 17:36:17,624 - INFO - Test set: Average loss: 0.7220, Accuracy: 58/1530 (4%)
+
+2024-08-16 17:36:17,624 - INFO - Test Loss: 0.7220471941567714, Accuracy: 3.7908496732026142
