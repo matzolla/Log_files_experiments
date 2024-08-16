@@ -1,0 +1,13 @@
+inference on reconstructed HMDB51, with model trained on reconstructed HMDB51 dataset using video-DPRP
+epsilon=5 and delta=10^{-4}.
+
+
+2024-08-16 18:09:36,626 - INFO - Test set: Average loss: 0.3540, Accuracy: 435/1530 (28%)
+
+2024-08-16 18:09:36,626 - INFO - Test Loss: 0.3539574243663962, Accuracy: 28.431372549019606
+2024-08-16 18:11:38,849 - INFO - Test set: Average loss: 0.3532, Accuracy: 460/1530 (30%)
+
+2024-08-16 18:11:38,849 - INFO - Test Loss: 0.35316760520529905, Accuracy: 30.065359477124183
+2024-08-16 18:14:24,216 - INFO - Test set: Average loss: 0.3536, Accuracy: 439/1530 (29%)
+
+2024-08-16 18:14:24,216 - INFO - Test Loss: 0.3536496193580378, Accuracy: 28.69281045751634
