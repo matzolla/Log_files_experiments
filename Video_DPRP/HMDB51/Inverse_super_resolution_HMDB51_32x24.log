@@ -1,4 +1,4 @@
-Model trained on reconstructed HMDB51 using inverse-super-resolution (32x24)
+Model trained on reconstructed HMDB51 using inverse-super-resolution (32x24) (inference on raw data)
 
 2024-08-15 08:46:35,200 - INFO - Test set: Average loss: 0.3561, Accuracy: 540/1530 (35%)
 
