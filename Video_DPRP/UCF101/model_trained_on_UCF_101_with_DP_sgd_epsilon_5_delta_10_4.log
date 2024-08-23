@@ -1,0 +1,11 @@
+model trained on UCF_101 DP-SGD with epsilon=5 and delta 10^-4
+
+2024-08-23 22:21:13,431 - INFO - Test set: Average loss: 0.4032, Accuracy: 1387/3783 (37%)
+
+2024-08-23 22:21:13,431 - INFO - Test Loss: 0.4032397723461061, Accuracy: 36.664023261961404
+2024-08-23 22:31:07,750 - INFO - Test set: Average loss: 0.4028, Accuracy: 1418/3783 (37%)
+
+2024-08-23 22:31:07,750 - INFO - Test Loss: 0.4027994126987432, Accuracy: 37.483478720592124
+2024-08-23 22:44:43,291 - INFO - Test set: Average loss: 0.3988, Accuracy: 1421/3783 (38%)
+
+2024-08-23 22:44:43,291 - INFO - Test Loss: 0.3988061836558046, Accuracy: 37.562780861749935
