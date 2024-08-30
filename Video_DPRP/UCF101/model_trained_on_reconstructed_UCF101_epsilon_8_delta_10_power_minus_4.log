@@ -1,0 +1,11 @@
+Model trained on reconstructed UCF-101 with epsilon=8 and delta=10^{-4}
+(inference on raw data)
+2024-08-29 23:43:43,413 - INFO - Test set: Average loss: 0.2468, Accuracy: 2298/3783 (61%)
+
+2024-08-29 23:43:43,413 - INFO - Test Loss: 0.24683028150732922, Accuracy: 60.745440132634789
+2024-08-29 23:52:20,627 - INFO - Test set: Average loss: 0.2500, Accuracy: 2223/3783 (59%)
+
+2024-08-29 23:52:20,627 - INFO - Test Loss: 0.25004615181894047, Accuracy: 58.762886631489631
+2024-08-30 00:02:02,408 - INFO - Test set: Average loss: 0.2452, Accuracy: 2309/3783 (61%)
+
+2024-08-30 00:02:02,408 - INFO - Test Loss: 0.24522552178976179, Accuracy: 61.036214569793814
