@@ -1,0 +1,10 @@
+
+2024-09-10 23:46:03,296 - INFO - Test set: Average loss: 0.5788, Accuracy: 72/515 (14%)
+
+2024-09-10 23:46:03,296 - INFO - Test Loss: 0.5787577633718842, Accuracy: 13.980582524271844
+2024-09-10 23:47:17,236 - INFO - Test set: Average loss: 0.5770, Accuracy: 87/515 (17%)
+
+2024-09-10 23:47:17,236 - INFO - Test Loss: 0.5769515194939178, Accuracy: 16.893203883495147
+2024-09-10 23:49:06,494 - INFO - Test set: Average loss: 0.5739, Accuracy: 78/515 (15%)
+
+2024-09-10 23:49:06,494 - INFO - Test Loss: 0.5739330435262143, Accuracy: 15.145631067961165
