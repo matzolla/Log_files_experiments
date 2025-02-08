@@ -1,3 +1,4 @@
+
 model trained on reconstructed UCF-101 with epsilon=5, delta=10^{-4} inference on raw data
 
 2024-08-23 15:52:14,469 - INFO - Test set: Average loss: 0.2598, Accuracy: 2175/3783 (57%)
